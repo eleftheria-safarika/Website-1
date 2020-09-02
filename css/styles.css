@@ -6,13 +6,18 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
-.container-h1{
+.container-h{
     display: flex;
-    height: 100px;
+    height: 200px;
     width: 90%;
+    margin-left: 5%;
     background-color: peachpuff;
-    box-shadow: 0px 5px 5px rgba(.2,.2,.2, .2);
+    box-shadow: 0px 5px 5px rgba(.3,.3,.3, .3);
+    flex-direction: column; 
     justify-content: center;
+    justify-items: center;
+    border-radius: 5px;
+
 }
 
 h1{
@@ -20,5 +25,10 @@ h1{
   font-family: arial;
   color: rgb(80, 79, 79);
 
-
+}
+h2{
+  display: flex;
+}
+.margin-for-list{
+  margin: 50px;
 }
