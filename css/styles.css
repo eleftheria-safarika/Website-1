@@ -9,3 +9,7 @@ body {
     background-color: palevioletred;
     box-shadow: black;
 }
+
+h1{
+  font-family: 'Arial Narrow Bold';
+}
