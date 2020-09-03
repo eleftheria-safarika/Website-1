@@ -41,3 +41,6 @@ img {
 h3{
     color:#7d4f5e
 }
+.carousel-item {
+    width: 70%;
+}
