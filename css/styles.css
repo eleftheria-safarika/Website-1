@@ -1,6 +1,5 @@
 body {
-  padding-top: 5rem;
-  background-color: palevioletred  
+  background-color: palevioletred;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -24,10 +23,11 @@ h1{
   display: flex;
   font-family: arial;
   color: rgb(80, 79, 79);
-
+  justify-content: center;
 }
 h2{
   display: flex;
+  justify-content: center;
 }
 .margin-for-list{
   margin: 50px;
@@ -39,8 +39,15 @@ img {
     margin-right: auto;
 }
 h3{
-    color:#7d4f5e
+    color:#7d4f5
 }
+<<<<<<< HEAD
 .carousel-item {
     width: 70%;
 }
+=======
+.custom-image{
+    height: 400px;
+    width: auto;
+}
+>>>>>>> 513ab7066730b8c9837a5b9f88b63f05bd2fcd9b
